@@ -1,3 +1,1 @@
 hello ajax
-bye
-zz
