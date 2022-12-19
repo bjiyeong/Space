@@ -81,7 +81,7 @@ public class HomeController {
 	
 	@RequestMapping(value = "/Login", method = RequestMethod.GET)
 	public String mylogin(Model model) {
-		logger.info("connected myreservation.");
+		logger.info("connected Login.");
 		return "ajax/Login";
 	}
 
